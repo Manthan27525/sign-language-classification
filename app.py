@@ -6,7 +6,7 @@ import json
 from PIL import Image
 
 
-MODEL_PATH = "model/gesture_model.h5"
+MODEL_PATH = "model/gesture_model.tflite"
 CLASS_MAP_PATH = "notebooks/class_names.json"
 
 
